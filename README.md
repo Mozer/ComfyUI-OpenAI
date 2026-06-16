@@ -1,4 +1,4 @@
-# ComfyUI OpenAI Nodes
+# ComfyUI OpenAI Nodes with API URL field (llama.cpp server is supported)
 
 ![Cover Image](cover.png)
 
